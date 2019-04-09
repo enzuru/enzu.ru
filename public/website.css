@@ -1,0 +1,35 @@
+body {
+  background: #2B3856;
+  color: white;
+  font-family: monospace;
+  text-align: center;
+}
+
+div#banner {
+  white-space: pre-wrap;
+}
+
+div#subtitle {
+  padding: 50px;
+}
+
+div.menu {
+  align: center;
+  margin: auto;
+  height: 200px;
+  width: 80%;
+}
+
+div.menu-section {
+  float: left;
+  width: 33%;
+}
+
+h1, h2 {
+  font-size: 100%;
+  font-weight: normal;
+}
+
+a {
+  color: white;
+}

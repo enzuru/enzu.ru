@@ -1,0 +1,16 @@
+{
+    "name": "enzu.ru",
+    "version": "0.0.1",
+    "description": "Ahmed Khanzada's personal website",
+    "author": "Ahmed Khanzada <me@enzu.ru>",
+    "main": "app.js",
+    "engines": {
+        "node": "10.6.0"
+    },
+    "scripts": {
+        "app": "node src/app.js"
+    },
+    "dependencies": {
+        "express": "4.16.3"
+    }
+}
