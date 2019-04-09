@@ -7,6 +7,7 @@ body {
 
 div#banner {
   white-space: pre-wrap;
+  font-size: 6pt;
 }
 
 div#subtitle {
@@ -17,7 +18,7 @@ div.menu {
   align: center;
   margin: auto;
   height: 200px;
-  width: 80%;
+  width: 90%;
 }
 
 div.menu-section {
