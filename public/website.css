@@ -9,6 +9,7 @@ body {
 img#banner {
   width: 60%;
   max-width: 660px;
+  margin-top: 64px;
 }
 
 div#subtitle {
