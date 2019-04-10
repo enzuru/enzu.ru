@@ -3,32 +3,34 @@ body {
   color: white;
   font-family: monospace;
   text-align: center;
+  font-size: 120%;
 }
 
-div#banner {
-  white-space: pre-wrap;
-  font-size: 6pt;
+img#banner {
+  width: 60%;
+  max-width: 660px;
 }
 
 div#subtitle {
-  padding: 50px;
+  padding: 70px;
 }
 
 div.menu {
   align: center;
   margin: auto;
-  height: 200px;
-  width: 90%;
+  width: 70%;
 }
 
 div.menu-section {
   float: left;
-  width: 33%;
+  width: 200px;
+  height: 200px;
+  padding: 5px;
 }
 
 h1, h2 {
   font-size: 100%;
-  font-weight: normal;
+  font-weight: bold;
 }
 
 a {
