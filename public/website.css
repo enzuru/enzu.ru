@@ -12,13 +12,13 @@ body {
 }
 
 img#banner {
-  width: 60%;
+  width: 80%;
   max-width: 660px;
   margin-top: 64px;
 }
 
 div#subtitle {
-  padding: 100px;
+  padding: 50px;
 }
 
 div.menu {
