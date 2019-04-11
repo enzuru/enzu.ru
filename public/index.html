@@ -8,11 +8,20 @@
         <meta name="author" content="Ahmed Khanzada">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="website.css">
+
+        <script type="text/javascript">
+            if (window.location.hostname !== 'localhost'
+                && window.location.hostname !== '127.0.0.1'
+                && window.location.protocol !== 'https:'
+               ) {
+              window.location.protocol = 'https:'
+            }
+        </script>
     </head>
 
     <body>
         <img id="banner" src="enzuru.png" alt="enzu.ru" />
-        
+
         <div id="subtitle">
             <h1>Ahmed Khanzada</h1>
             Lead engineer<br />
@@ -39,7 +48,7 @@
 
             <div class="menu-section">
                 <h2>Mobile apps built</h2>
-                NASCAR (<a href="https://tinyurl.com/nascarheatandroid">Android</a>, <a href="https://tinyurl.com/nascarheatios">iOS</a>)
+                NASCAR (<a href="https://tinyurl.com/nascarheatandroid">Android</a>, <a href="https://tinyurl.com/nascarheatios">iOS</a>)<br />
                 UnSit (<a href="https://tinyurl.com/unsitandroid">Android</a>, <a href="https://tinyurl.com/unsitios">iOS</a>)<br />
             </div>
 
@@ -54,7 +63,7 @@
                 <a href="https://github.com/enzuru">GitHub</a><br />
                 <a href="https://bitbucket.org/enzuru/">Bitbucket</a><br />
             </div>
-            
+
             <div class="menu-section">
                 <h2>Further information</h2>
                 <a href="mailto:me@enzu.ru">Email</a><br />
