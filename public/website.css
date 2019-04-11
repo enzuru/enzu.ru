@@ -18,7 +18,7 @@ img#banner {
 }
 
 div#subtitle {
-  padding: 70px;
+  padding: 100px;
 }
 
 div.menu {
@@ -31,11 +31,14 @@ div.menu {
 }
 
 div.menu-section {
-  width: 200px;
-  height: 200px;
-  padding: 5px;
+  width: 180px;
+  height: 250px;
+  padding: 0px;
   overflow: hidden;
   display: inline-block;
+  background: #5f6a85;
+  border: 1px solid white;
+  margin: 10px;
 }
 
 h1, h2 {
