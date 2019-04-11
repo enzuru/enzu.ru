@@ -1,7 +1,12 @@
+@font-face {
+  font-family: Advent;
+  src: url('fonts/AdventPro-Light.ttf');
+}
+
 body {
   background: #2B3856;
   color: white;
-  font-family: monospace;
+  font-family: Advent;
   text-align: center;
   font-size: 120%;
 }
