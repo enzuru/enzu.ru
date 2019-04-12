@@ -31,14 +31,14 @@ div.menu {
 }
 
 div.menu-section {
-  width: 180px;
+  width: 190px;
   height: 250px;
   padding: 0px;
   overflow: hidden;
   display: inline-block;
-  background: #5f6a85;
-  border: 1px solid white;
+  background: #35425f;
   margin: 10px;
+  border-top: 1px solid white;
 }
 
 h1, h2 {
