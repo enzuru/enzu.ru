@@ -39,6 +39,7 @@ div.menu-section {
   background: #35425f;
   margin: 10px;
   border-top: 1px solid white;
+  vertical-align: middle;
 }
 
 h1, h2 {
