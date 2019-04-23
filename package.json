@@ -1,17 +1,28 @@
 {
-    "name": "enzu.ru",
-    "version": "0.0.1",
-    "description": "Ahmed Khanzada's personal website",
-    "author": "Ahmed Khanzada <me@enzu.ru>",
-    "main": "app.js",
-    "engines": {
-        "node": "10.6.0"
-    },
-    "scripts": {
-        "app": "node src/app.js"
-    },
-    "dependencies": {
-        "express": "4.16.3",
-        "express-http-to-https": "1.1.4"
-    }
+  "name": "enzu.ru",
+  "version": "0.0.1",
+  "description": "Ahmed Khanzada's personal website",
+  "author": "Ahmed Khanzada <me@enzu.ru>",
+  "homepage": "https://enzu.ru",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/enzuru/enzu.ru.git"
+  },
+  "keywords": [],
+  "contributors": ["Ahmed Khanzada"],
+  "license": "AGPLv3",
+  "bugs": {
+    "url": "https://github.com/enzuru/enzu.ru/issues"
+  },
+  "main": "app.js",
+  "engines": {
+    "node": "12.0.0"
+  },
+  "scripts": {
+    "app": "node src/app.js"
+  },
+  "dependencies": {
+    "express": "4.16.4",
+    "express-http-to-https": "1.1.4"
+  }
 }
