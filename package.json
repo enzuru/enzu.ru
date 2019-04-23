@@ -9,7 +9,9 @@
     "url": "https://github.com/enzuru/enzu.ru.git"
   },
   "keywords": [],
-  "contributors": ["Ahmed Khanzada"],
+  "contributors": [
+    "Ahmed Khanzada"
+  ],
   "license": "AGPLv3",
   "bugs": {
     "url": "https://github.com/enzuru/enzu.ru/issues"
