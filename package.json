@@ -18,13 +18,13 @@
   },
   "main": "app.js",
   "engines": {
-    "node": "12.0.0"
+    "node": "13.8.0"
   },
   "scripts": {
     "app": "node src/app.js"
   },
   "dependencies": {
-    "express": "4.16.4",
+    "express": "4.17.1",
     "express-http-to-https": "1.1.4"
   }
 }
