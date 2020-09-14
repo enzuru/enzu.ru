@@ -12,34 +12,36 @@ body {
 }
 
 img#banner {
-  width: 80%;
-  max-width: 660px;
-  margin-top: 64px;
+  height: 25%;
+  max-height: 200px;
+  margin-top: 32px;
 }
 
 div#subtitle {
-  padding: 50px;
+  padding: 25px;
 }
 
 div.menu {
   align: center;
   margin: auto;
-  width: 70%;
+  width: 50%;
   height: 100%;
   overflow: hidden;
   display: inline-block;
 }
 
 div.menu-section {
+  border: 1px solid white;
   width: 190px;
-  height: 250px;
+  height: 230px;
   padding: 0px;
   overflow: hidden;
   display: inline-block;
-  background: #35425f;
   margin: 10px;
-  border-top: 1px solid white;
   vertical-align: middle;
+  opacity: 0.50;
+  background: white;
+  color: black;
 }
 
 h1, h2 {
@@ -48,5 +50,5 @@ h1, h2 {
 }
 
 a {
-  color: white;
+  color: black;
 }
