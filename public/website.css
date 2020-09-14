@@ -24,7 +24,7 @@ div#subtitle {
 div.menu {
   align: center;
   margin: auto;
-  width: 50%;
+  max-width: 1080px;
   height: 100%;
   overflow: hidden;
   display: inline-block;
