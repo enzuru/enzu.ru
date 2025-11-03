@@ -3,7 +3,7 @@ baseURL = "https://enzu.ru"
 languageCode = "en-US"
 title = "enzu.ru"
 theme = "split"
-disableKinds = ["section", "RSS", "sitemap"]
+disableKinds = ["section", "taxonomy", "RSS", "sitemap"]
 disableHugoGeneratorInject = true
 
 # Local preview mode
