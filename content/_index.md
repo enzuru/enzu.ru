@@ -4,4 +4,4 @@ draft = false
 title = 'enzu.ru'
 +++
 
-Founding engineer and zero-to-one product manager. Hacker for GNU and GNOME. Hacker and pilgrim. Husband and father. SoCal beach bum. 
+Founding engineer and zero-to-one product manager. Hacker for the GNU and GNOME projects. Interested in literature, computer science, genetics, and preserving Indo-Portuguese culture.

@@ -21,8 +21,8 @@ copyright = "&copy;2025 enzu.ru"
 [params]
 
   # Metadata for search engines and social sharing
-  author = "Ahmed Khanzada"
-  description = "Split is a centrally-divided layout for a professional online presence with a big image or video left with alongside content."
+  author = "A. Khanzada"
+  description = "enzu.ru"
   shareImage = "images/social.jpg"
   twitterHandle = "onepagelove"
 
