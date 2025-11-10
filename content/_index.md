@@ -1,7 +1,17 @@
-+++
-date = '2025-10-26T21:08:58-07:00'
-draft = false
-title = 'Ahmed Khanzada'
-+++
-
-Founding engineer and zero-to-one product manager. Hacker for the GNU and GNOME projects. Born and raised Californian. Named after [Ahmed the Calligrapher](https://en.wikipedia.org/wiki/Ahmet_the_Calligrapher). Interested in literature, computer science, genetics, and preserving [Indo-Portuguese culture](https://en.wikipedia.org/wiki/Portuguese_India).
+---
+description: Founding engineer and zero-to-one product manager. McKinsey alumni. Hacker for the **[GNU](https://www.gnu.org/home.en.html)** and **[GNOME](https://www.gnome.org/)** projects. Named after **[Ahmed the Calligrapher](https://en.wikipedia.org/wiki/Ahmet_the_Calligrapher)**. Born and raised Californian. Interested in literature, computer science, genetics, and preserving **[Indo-Portuguese culture](https://en.wikipedia.org/wiki/Portuguese_India)**.
+#lastmod: 2023-07-05
+title: Ahmed Khanzada
+resources:
+  - src: martin-martz-wRuhOOaG-Z4-unsplash.jpg
+    params:
+      cover: true # cover of the home page is used for OpenGraph cards, etc.
+menus:
+  main:
+    name: Home
+    weight: -1
+# sub-galleries on list pages are sorted by date and weight (descending)
+#cascade:
+#  build:
+#    publishResources: false # do not include full images. Also disable download
+---

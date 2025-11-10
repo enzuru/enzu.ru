@@ -1,3 +1,6 @@
 [submodule "themes/split"]
 	path = themes/split
 	url = https://github.com/escalate/hugo-split-theme.git
+[submodule "themes/gallery"]
+	path = themes/gallery
+	url = https://github.com/nicokaiser/hugo-theme-gallery.git
