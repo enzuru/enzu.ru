@@ -3,7 +3,7 @@ description: Websites I've delivered to production.
 menus: "main"
 title: Websites
 categories: ["Commercial"]
-weight: 3
+weight: 1
 params:
   theme: dark
   sort_order: asc

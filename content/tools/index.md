@@ -1,9 +1,9 @@
 ---
 description: Software tools I've contributed to.
-menus: "Tools"
+menus: "main"
 title: Tools
 categories: ["Free/libre"]
-weight: 4
+weight: 2
 params:
   theme: dark
   sort_order: asc
