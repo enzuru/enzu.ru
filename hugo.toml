@@ -16,8 +16,9 @@ title = "enzu.ru"
     name = "Ahmed Khanzada"
   [params.socialIcons]
     github = "https://github.com/enzuru"
-    youtube = "https://www.youtube.com/@lenzuru"
     website = "https://medium.com/@enzuru"
+    youtube = "https://www.youtube.com/@lenzuru"
+    linkedin = "https://www.linkedin.com/in/ahmed-khanzada/"
     email = "mailto:enzuru@me.com"
   [params.gallery]
     #boxSpacing = 10
