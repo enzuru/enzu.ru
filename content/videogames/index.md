@@ -2,7 +2,7 @@
 description: Videogames I've worked on or helped write open source ports of.
 menus: "main"
 title: Videogames
-categories: ["Free/libre"]
+categories: ["Libre"]
 weight: 4
 params:
   theme: dark

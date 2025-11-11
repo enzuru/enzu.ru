@@ -2,7 +2,7 @@
 description: Software tools I've contributed to.
 menus: "main"
 title: Tools
-categories: ["Free/libre"]
+categories: ["Libre"]
 weight: 2
 params:
   theme: dark
