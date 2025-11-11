@@ -1,9 +1,9 @@
 ---
-description: Founding engineer and zero-to-one product manager. McKinsey alumni. Hacker for the **[GNU](https://www.gnu.org/home.en.html)** and **[GNOME](https://www.gnome.org/)** projects. Named after **[Ahmed the Calligrapher](https://en.wikipedia.org/wiki/Ahmet_the_Calligrapher)**. Born and raised Californian. Interested in literature, computer science, genetics, and preserving **[Indo-Portuguese culture](https://en.wikipedia.org/wiki/Portuguese_India)**.
+description: Founding engineer and zero-to-one product manager. McKinsey alumni. Hacker for the **[GNU](https://www.gnu.org/home.en.html)** and **[GNOME](https://www.gnome.org/)** projects. Named after **[Ahmed the Calligrapher](https://en.wikipedia.org/wiki/Ahmet_the_Calligrapher)**. Born and raised Californian. Interested in literature, computer science, genetics, and preserving **[Indo-Portuguese culture](https://en.wikipedia.org/wiki/Portuguese_India)**. ![Alt text](images/ahmed.png "Optional Title")
 #lastmod: 2023-07-05
 title: Ahmed Khanzada
 resources:
-  - src: martin-martz-wRuhOOaG-Z4-unsplash.jpg
+  - src: ahmed.png
     params:
       cover: true # cover of the home page is used for OpenGraph cards, etc.
 menus:
