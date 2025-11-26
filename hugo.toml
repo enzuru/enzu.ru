@@ -16,8 +16,9 @@ title = "enzu.ru"
     name = "Ahmed Khanzada"
   [params.socialIcons]
     github = "https://github.com/enzuru"
-    website = "https://medium.com/@enzuru"
-    youtube = "https://www.youtube.com/@lenzuru"
+    medium = "https://medium.com/@enzuru"
+    youtube = "https://www.youtube.com/@lenzuru/streams"
+    goodreads = "https://goodreads.com/enzuru"
     linkedin = "https://www.linkedin.com/in/ahmed-khanzada/"
     email = "mailto:enzuru@me.com"
   [params.gallery]
